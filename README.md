@@ -1,17 +1,23 @@
-# minimal_notes_app
+# Flutter Practice Projects
 
-A new Flutter project.
+Projects implemented from the Flutter masterclass sequence after the Todo app.
 
-## Getting Started
+## Projects
 
-This project is a starting point for a Flutter application.
+- Nike Sneaker Shop UI
+- Minimal Ecommerce App
+- Minimal Notes App
+- Habit Tracker App
+- Chat Messenger App
+- Minimal Social Media App
+- Weather NBA API examples
 
-A few resources to get you started if this is your first Flutter project:
+Open any project folder in VS Code and run:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+```powershell
+flutter pub get
+flutter run -d chrome
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+These projects are kept outside OneDrive locally to avoid Flutter build cache lock issues.
+
